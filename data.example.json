@@ -3,11 +3,11 @@
     {
       "name": "Local Service",
       "items": [
-        {"name":"Jellyfin","url":"http://localhost:8096/","icon":"jellyfin"},
+        {"name":"Jellyfin","url":"http://localhost:8096/","icon":"plex"},
         {"name":"Syncthing","url":"http://localhost:8384/","icon":"weather-cloudy"},
         {"name":"Everything","url":"http://localhost/","icon":"file-find-outline"},
         {"name":"AList","url":"http://localhost:5244/","icon":"package"},
-        {"name":"Clash","url":"https://clash.razord.top/#/proxies?host=127.0.0.1&port=1222&secret=","icon":"clash"}
+        {"name":"Clash","url":"https://clash.razord.top/#/proxies?host=127.0.0.1&port=1222&secret=","icon":"server"}
       ]
     }
   ],
