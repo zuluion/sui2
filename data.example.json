@@ -38,6 +38,14 @@
             "url": "https://www.youtube.com/"
           },
           {
+            "name": "DouYin",
+            "url": "https://www.douyin.com/"
+          },
+          {
+            "name": "TikTok",
+            "url": "https://www.tiktok.com/"
+          },
+          {
             "name": "Netflix",
             "url": "https://www.netflix.com/browse"
           }
@@ -48,11 +56,15 @@
       "links": [
         {
         "name": "Twitter",
-        "url": "https://twitter.com/home"
+        "url": "https://x.com/home"
         },
         {
             "name": "Instagram",
             "url": "https://www.instagram.com/"
+        },
+        {
+          "name": "Mastodon",
+          "url": "https://wxw.moe/"
         },
         {
             "name": "Pinterest",
@@ -78,6 +90,10 @@
         {
           "name": "Feedly",
           "url": "https://feedly.com/"
+        },
+        {
+          "name": "Reddit",
+          "url": "https://www.reddit.com/"
         }
       ]
     },
@@ -132,6 +148,44 @@
         {
             "name": "ColorHunt",
             "url": "https://colorhunt.co/"
+        }
+      ]
+    },
+    {
+      "category": "AI",
+      "links": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/"
+        },
+        {
+            "name": "Claude",
+            "url": "https://claude.ai/"
+        },
+        {
+            "name": "Gemini",
+            "url": "https://gemini.google.com/"
+        },
+        {
+            "name": "Copilot",
+            "url": "https://www.bing.com/chat"
+        }
+      ]
+    },
+    {
+      "category": "Shopping",
+      "links": [
+        {
+          "name": "TaoBao",
+          "url": "https://taobao.com/"
+        },
+        {
+            "name": "JD",
+            "url": "https://jd.com/"
+        },
+        {
+            "name": "Goofish",
+            "url": "https://www.goofish.com/"
         }
       ]
     }
