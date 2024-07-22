@@ -3,12 +3,13 @@
     {
       "name": "Local Service",
       "items": [
-        {"name":"Jellyfin","url":"http://localhost:8096/","icon":"plex"},
-        {"name":"Syncthing","url":"http://localhost:8384/","icon":"weather-cloudy"},
+        {"name":"Jellyfin","url":"http://localhost:8096/","icon":"simple-icons:jellyfin"},
+        {"name":"Syncthing","url":"http://localhost:8384/","icon":"simple-icons:syncthing"},
         {"name":"Everything","url":"http://localhost/","icon":"file-find-outline"},
+        {"name":"Sunshine","url":"https://localhost:47990/","icon":"material-symbols:sunny-outline"},
         {"name":"AList","url":"http://localhost:5244/","icon":"package"},
         {"name":"CloudNas","url":"http://localhost:9798/","icon":"package"},
-        {"name":"Clash","url":"https://clash.razord.top/#/proxies?host=127.0.0.1&port=1222&secret=","icon":"server"}
+        {"name":"Clash","url":"https://clash.razord.top/#/proxies?host=127.0.0.1&port=1222&secret=","icon":"arcticons:clash"}
       ]
     }
   ],
