@@ -9,7 +9,8 @@
         {"name":"Sunshine","url":"https://localhost:47990/","icon":"sun-wireless"},
         {"name":"AList","url":"http://localhost:5244/","icon":"nas"},
         {"name":"CloudNas","url":"http://localhost:9798/","icon":"nas"},
-        {"name":"Clash","url":"https://clash.razord.top/#/proxies?host=127.0.0.1&port=1222&secret=","icon":"cat"}
+        {"name":"Clash","url":"https://clash.razord.top/#/proxies?host=127.0.0.1&port=1222&secret=","icon":"cat"},
+        {"name":"Clash","url":"https://yacd.haishan.me/","icon":"cat"}
       ]
     }
   ],
