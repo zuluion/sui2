@@ -175,6 +175,10 @@
         {
             "name": "Copilot",
             "url": "https://www.bing.com/chat"
+        },
+        {
+            "name": "DeepSeek",
+            "url": "https://chat.deepseek.com/"
         }
       ]
     },
