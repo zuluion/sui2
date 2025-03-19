@@ -179,6 +179,18 @@
         {
             "name": "DeepSeek",
             "url": "https://chat.deepseek.com/"
+        },
+        {
+            "name": "DouBao",
+            "url": "https://www.doubao.com/chat/"
+        },
+        {
+            "name": "TongYi",
+            "url": "https://tongyi.aliyun.com/"
+        },
+        {
+            "name": "Kimi",
+            "url": "https://kimi.moonshot.cn/chat/"
         }
       ]
     },
